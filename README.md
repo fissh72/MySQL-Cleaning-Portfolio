@@ -19,9 +19,9 @@ In this project, I performed a comprehensive data cleaning process on a raw data
 
 ## 📊 Before & After
 *View the repository images for the transformation from raw text to structured SQL tables.*
-<img width="1920" height="1080" alt="Screenshot (200)" src="https://github.com/user-attachments/assets/0c6b96c1-5786-4652-8470-a8cf84352f6e" />
+<img width="1920" height="1080" alt="Screenshot (205)" src="https://github.com/user-attachments/assets/3d1b5d6b-c155-4904-8478-ffddab7de9be" />
 Raw Dataset with inconsistencies
-<img width="1920" height="1080" alt="Screenshot (199)" src="https://github.com/user-attachments/assets/d3783e25-5e52-480f-83b5-037ff08cd0c6" />
+<img width="1920" height="1080" alt="Screenshot (206)" src="https://github.com/user-attachments/assets/37c37dd4-abf3-4b08-8c7c-2e84307f8004" />
 Cleaned and Standardized Dataset
 
 ## 💻 How to Use
